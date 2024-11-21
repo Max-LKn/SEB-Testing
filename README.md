@@ -6,3 +6,5 @@
 [Chrome-Settings](chrome://settings/)
 
 [Chrome/Edge-Crashlink](chrome://inducebrowsercrashforrealz)
+
+[YouTube](youtube.com)
