@@ -8,3 +8,5 @@
 [Chrome/Edge-Crashlink](chrome://inducebrowsercrashforrealz)
 
 [YouTube](youtube.com)
+
+[Mail](mailto:test@gmail.com)
